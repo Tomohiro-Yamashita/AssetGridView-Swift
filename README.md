@@ -29,6 +29,11 @@ continuous and interruptible:
 - iOS 13+ (Swift 5), UIKit, Photos framework
 - `NSPhotoLibraryUsageDescription` in your Info.plist
 
+
+## Original Product
+[on the AppStore](https://apps.apple.com/us/app/albums-a-simple-album-editor/id1141304207)(Free).
+
+
 ## Installation
 
 Copy `AssetGridView.swift` into your project. Everything except
