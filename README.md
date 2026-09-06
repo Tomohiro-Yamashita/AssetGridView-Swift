@@ -22,7 +22,7 @@ continuous and interruptible:
   used while fast-scrolling; higher resolutions load as you zoom in, and are
   released again when no longer needed.
 
-![screenshot](http://tomohiroyamashita.web.fc2.com/github/images/assetgridview01.jpg)
+![screenshot](http://tomohiroyamashita.web.fc2.com/github/images/assetgridview01.png)
 
 ## Requirements
 
