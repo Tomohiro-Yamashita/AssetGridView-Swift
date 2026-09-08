@@ -26,8 +26,6 @@ continuous and interruptible:
 
 
 
-![screenshot](http://tomohiroyamashita.web.fc2.com/github/images/assetgridview05.png)
-
 ## Requirements
 
 - iOS 13+ (Swift 5), UIKit, Photos framework
