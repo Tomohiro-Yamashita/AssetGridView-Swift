@@ -24,6 +24,8 @@ continuous and interruptible:
 
 ![screenshot](http://tomohiroyamashita.web.fc2.com/github/images/assetgridview00.png)
 
+![screenshot](http://tomohiroyamashita.web.fc2.com/github/images/assetgridview03.png)
+
 ![screenshot](http://tomohiroyamashita.web.fc2.com/github/images/assetgridview05.png)
 
 ## Requirements
